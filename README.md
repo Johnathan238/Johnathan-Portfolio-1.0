@@ -5,4 +5,4 @@ My portfolio will allow recuiters to use, & see how my projects work!
 
 <br>
 
-Deployed link at ()
+Deployed link at (http://www.johnathanumana.com)
