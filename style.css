@@ -87,8 +87,10 @@ strong {
 }
 
 .btn__img {
-  width: 40em;
+  display: flex;
+  justify-content: center;
   padding-left: 3em;
+  width: max-content;
   transition: transform 750ms cubic-bezier(0.5, 0, 0.5, 1), opacity 250ms linear;
 }
 
