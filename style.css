@@ -100,9 +100,9 @@ strong {
 
 @media (min-width: 370px) {
   .btn__img {
-    width: 41em
+    width: 41em;
   }
-  .btn{
+  .btn {
     font-size: 0.5rem;
   }
 }
